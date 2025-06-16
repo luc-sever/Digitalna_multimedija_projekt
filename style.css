@@ -2,20 +2,14 @@
   
   @font-face {
   font-family: "LucijaSever-Regular";
-  src: url("./LucijaSever-Regular.ttf") format("truetype");
+  src: url("LucijaSever-Regular.ttf") format("truetype");
 }
 
-.naslov {
+     h1 {
   font-family: "LucijaSever-Regular", sans-serif;
   font-size: 3em;
   color: #333;
 }
-
-
-h1 {
-  font-family: "LucijaSever-Regular", sans-serif;
-}
-
 
 body {
   margin: 0;
@@ -47,7 +41,7 @@ body::before {
 }
 
 h1 {
-  font-family: "LucijaSever", serif;
+  font-family: "LucijaSever-Regular", serif;
   font-size: 3rem;
   margin-bottom: 15px;
   text-shadow: 1px 1px 5px rgba(0,0,0,0.7);
