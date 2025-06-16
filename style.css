@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
   
   @font-face {
-  font-family: "LucijaSever";
+  font-family: "LucijaSever-Regular";
   src: url("../fonts/LucijaSever-Regular.ttf") format("truetype");
 }
 
 h1 {
-  font-family: "LucijaSever", sans-serif;
+  font-family: "LucijaSever-Regular", sans-serif;
 }
 
 
