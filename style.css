@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "LucijaSever";
-  src: url("LucijaSever-Regular.ttf") format("truetype");
+  src: url("LucijaSever-Regular") format("truetype");
 }
 
 body {
